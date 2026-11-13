@@ -33,3 +33,10 @@ recorded NumPy version. The small standalone example and three tests
 also passed after ordinary local-source installation with NumPy 2.5.4.
 The larger internal audits use additional materials outside this draft.
 These observations cover the tested inputs and software combinations.
+
+## Related paper
+
+Junichi Fujiki (2026). *Guarded Low-Rank Woodbury Covariance Updates for Reproducible Cosmological Likelihood Evaluation*. Zenodo.
+[https://doi.org/10.5281/zenodo.24181679](https://doi.org/10.5281/zenodo.24181679)
+
+This repository provides a standalone NumPy reference implementation for the low-rank covariance updates discussed in the paper.
